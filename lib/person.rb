@@ -1,4 +1,4 @@
-def Person
+Class Person
   
 end
 
